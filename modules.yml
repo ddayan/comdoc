@@ -1,0 +1,9 @@
+# add local saved key by name or a ss58 address and list which subnets it is supposed to validate or mine on.
+# e.g.
+#
+# key1_name:
+#     validator: [3,4,5]
+#     miner: [6, 7]
+#
+# 5CwJ9fPxUxAyQKfAncsjfzzDY7VK9gfXzHD4wEBT1A82fy1g:
+#     miner: [20]

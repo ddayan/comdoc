@@ -1,0 +1,2 @@
+communex>=0.1.32
+PyYAML>=6.0.0
